@@ -1,0 +1,14 @@
+Temat: {nazwa}: kilka rzeczy do poprawy na stronie
+---
+Dzień dobry,
+
+przeglądałem stronę firmy {nazwa} i zauważyłem kilka rzeczy, przez które część klientów może z niej rezygnować:
+{problemy}
+
+Zajmujemy się odświeżaniem stron lokalnych firm: wersja na telefon, szybkie ładowanie, klikalny telefon, aktualne godziny i cennik, tak żeby klienci łatwiej się umawiali.
+
+Czy mogę przesłać krótką, bezpłatną propozycję poprawek i orientacyjną wycenę? Wystarczy odpowiedź na tego maila.
+
+Jeśli nie chcą Państwo otrzymywać od nas wiadomości, proszę odpisać „STOP”. Usunę adres z listy i nie napiszę ponownie.
+
+{podpis}

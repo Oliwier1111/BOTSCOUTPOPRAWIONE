@@ -1,0 +1,10 @@
+{
+  "Poznań": {
+    "gminy": ["Swarzędz", "Luboń", "Komorniki", "Tarnowo Podgórne", "Kórnik", "Puszczykowo", "Mosina", "Suchy Las",
+              "Dopiewo", "Czerwonak", "Rokietnica", "Murowana Goślina", "Stęszew"],
+    "dzielnice": ["Stare Miasto", "Jeżyce", "Wilda", "Łazarz", "Grunwald", "Górczyn", "Winogrady", "Piątkowo", "Rataje",
+                  "Naramowice", "Ławica", "Sołacz", "Starołęka", "Nowe Miasto", "Podolany", "Strzeszyn", "Antoninek",
+                  "Krzesiny", "Główna", "Kopernika"]
+  },
+  "_uwaga": "Dopisz własne miasta w tym samym formacie: gminy = sąsiednie gminy (przeszukiwane razem z miastem), dzielnice = używane tylko przy Google Maps."
+}
